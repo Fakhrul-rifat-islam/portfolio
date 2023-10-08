@@ -1,0 +1,51 @@
+body{ color: bisque;}
+.main-div img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+   
+}
+.main-div{
+    display: flex;
+    width: 50%;
+
+}
+h3{
+    padding-top: 15px;
+}
+.main{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.main-nav ul{ 
+    display: flex;
+}
+.main-nav ul li{
+    list-style: none;
+}
+.main-nav ul li a{
+    padding: 30px;
+    text-decoration: none;
+    font-size: 30px;
+}
+header{
+    background-color:black ;
+}
+.writings{ 
+    width: 50%;
+
+}
+span{
+    font-size: larger;
+    color: red;
+}
+.banner{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.image img{
+    height: 500px;
+    width: auto;
+}
